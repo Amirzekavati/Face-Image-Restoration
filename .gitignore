@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+*.log
+.DS_Store
+*.h5
+.idea/
+*.pkl
+*.csv
